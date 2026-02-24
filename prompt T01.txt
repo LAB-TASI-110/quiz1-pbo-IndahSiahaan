@@ -1,0 +1,10 @@
+Buatkan kodenya ini diketahui bahwa porsi makan ucok adalah 2 kali lipat butet
+Untuk penggunaan kupon buatkanlah jika makan nya 100 ribu maka diskon 5 persen
+Apakah penggunaan singkatan nama makanan sudah digunakan?
+Bagaimana jika harga menu berubah sewaktu-waktu?
+Bagaimana jika diskon hanya berlaku untuk menu tertentu?
+Kenapa harus menggunakan kata "end" untuk mengimput?
+Apakah bisa menghitung menu untuk banyak pelanggan?
+Cara menambahkan menu baru bagaimana?
+Output nya tidak sesuai dengan yang diminta
+Bisa buat output nya benar benar persis seperti ini?
