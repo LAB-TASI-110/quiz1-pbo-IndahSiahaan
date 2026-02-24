@@ -1,0 +1,10 @@
+Sistem Laundry Del saat ini adalah baju masih sering tertukar, 
+penimbangan berat laundry pun tidak teratur, maksimal 7 kg, 
+pen deskripsian laundry masih manual dengan menggunakan buku kertas laundry,
+masih menuliskan ada berapa jenis pakaian dengan manual di kertas, 
+apalagi kadang lupa menuliskan nama dan asramanya, sulitnya mencari pakaian yang tertukar ataupun hilang
+Buatkan lah sistem code yang dapat memecahkan masalah itu agar sistem operasi laundry del dapat lebih terstruktur dan terarah
+Bagaimana ouputnya jika berat laundry lebih dari 7 kg?
+Apakah bisa menambahkan fitur kehilangan pakaian?
+Bagimana jika laundry dibatalkan?
+Bagaimana jika salah penginputan data diri?
