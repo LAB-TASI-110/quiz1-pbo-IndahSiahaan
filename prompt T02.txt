@@ -1,0 +1,10 @@
+Buatkan kode ini dengan menggunakan Array
+Pola yang digunakan pada soal ya itu perempuan lalu laki laki berurutan
+Nilai semakin kebawah semakin naik tergantung pola perempuan dan laki lakinya
+Contohnya yohana 75 lalu ke indah 80, untuk laki laki, julius 65, wilson 70
+Maka nilai akan berurutan naik sesuai jenis kelamin namun tetap selang seling
+Apakah pemahaman saya masih sesuai dengan soal yang diminta?
+Bagimana dengan inputan dan hasil Outputnya jika saya buat tidak berurutan
+Bagimana jika ingin menjumlahkan seluruh mahasiswa tanpa membedakan gender?
+Seberapa perlu Array di dalam kode ini?
+Berarti tidak perlu membedakan gender jika yang diminta hanya total nilai kan?
